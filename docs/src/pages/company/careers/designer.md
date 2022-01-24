@@ -9,13 +9,13 @@ It has gained a large following, not only due to the fidelity to Material Design
 Today, countless teams and organizations rely on our open-source projects to build their design system.
 
 A couple of years ago, we started to expand our suite of products.
-We released [MUI X](/x/), a collection of advanced components; [MUI Design Kits](/design-kits/), the MUI Material components available for the most popular design tools; and also host [Templates](/templates/), a set of pre-built UI kits.
+We released [MUI X](/x/), a collection of advanced components; [MUI Design kits](/design-kits/), the MUI components available for the most popular design tools; and also host [Templates](/templates/), a set of pre-built UI kits.
 We've seen rapid growth with all of them (2-3x per year) and we have more to come.
 
 We are a fully distributed team, spread across multiple timezones.
 We work mainly asynchronously, relying mostly on written collaboration.
 Every contributor has the freedom to define how they work — the rest of us won't know what you're doing day-to-day unless you tell us.
-For additional details about the MUI team and culture, you can check our [careers](/careers/) and [about](/about/) pages and also our [public Handbook](https://www.notion.so/Handbook-f086d47e10794d5e839aef9dc67f324b).
+For additional details about the MUI team and culture, you can check our [careers](/careers/) and [about](/about/) pages and also our [public Handbook](https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b).
 
 ## Why we're hiring
 
