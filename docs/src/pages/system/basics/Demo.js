@@ -46,13 +46,15 @@ export default function Demo() {
         <Box
           sx={{
             mt: 1.5,
-            p: 0.5,
+            py: 0.5,
+            px: 1,
             backgroundColor: (theme) => alpha(theme.palette.primary.main, 0.1),
             borderRadius: '5px',
             color: 'primary.main',
             fontWeight: 'medium',
             display: 'flex',
             fontSize: 12,
+            fontWeight: 600,
             alignItems: 'center',
             '& svg': {
               fontSize: 21,

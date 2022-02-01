@@ -2,8 +2,8 @@
 
 <p class="description">CSS utilities for rapidly laying out custom designs.</p>
 
-MUI comes with dozens of **ready-to-use** components in the core.
-These components are an incredible starting point but when it comes to making your site stand out with a custom design, it can be simpler to start from an unstyled state. Introducing the system:
+MUI Core comes with dozens of **ready-to-use** components.
+These components are an incredible starting point but when it comes to making your app stand out with a custom design, it can be simpler to start from an unstyled state. Introducing the system:
 
 The **system** lets you quickly build custom UI components leveraging the values defined in your theme.
 
@@ -241,8 +241,7 @@ Here is an example leveraging them:
 >
 ```
 
-These shorthands are **optional**, they are great to save time when writing styles but it can be overwhelming to learn new custom APIs.
-You might want to skip this part and bet on CSS, it has been standardized for decades, head to the [next section](#superset-of-css).
+Note that these shorthands are **optional**, they are great to save time when writing styles but it can be overwhelming to learn new custom APIs. You can skip learning them and just keep writing the usual CSS, as it doesn't require remembering any shorthand.
 
 ### Superset of CSS
 

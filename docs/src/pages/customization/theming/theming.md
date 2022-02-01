@@ -160,7 +160,7 @@ theme = createTheme(theme, {
 });
 ```
 
-Think of creating a theme as a two-step composition process: first, you define the basic design options; then, you'll use these design options to compose other options.
+Think of creating a theme as a two-step composition process: first, you define the basic design tokens; then, you'll use these design tokens to compose other tokens.
 
 ### `responsiveFontSizes(theme, options) => theme`
 

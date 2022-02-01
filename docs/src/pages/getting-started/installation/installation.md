@@ -1,6 +1,6 @@
 # Installation
 
-<p class="description">Install MUI, the world's most popular React UI framework.</p>
+<p class="description">Install MUI, the world's most popular React UI library.</p>
 
 MUI is available as an [npm package](https://www.npmjs.com/package/@mui/material).
 
@@ -34,7 +34,7 @@ yarn add @mui/material @mui/styled-engine-sc styled-components
 
 ## Roboto font
 
-MUI was designed with the [Roboto](https://fonts.google.com/specimen/Roboto)
+Material Design was designed with the [Roboto](https://fonts.google.com/specimen/Roboto)
 font in mind. So be sure to follow [these instructions](/components/typography/#general).
 For instance, via Google Web Fonts:
 
@@ -94,7 +94,7 @@ affecting performance and bandwidth utilization.
 This pointer is **unstable**, it shifts as we release new versions.
 You should consider pointing to a specific version, such as [v5.0.0](https://unpkg.com/@mui/material@5.0.0/umd/material-ui.development.js).
 
-## Design resources
+## Design kits
 
 <a href="https://mui.com/store/items/figma-react/?utm_source=docs&utm_medium=referral&utm_campaign=installation-figma" style="margin-left: 8px; margin-top: 8px; display: inline-block;"><img src="/static/images/download-figma.svg" alt="figma" /></a>
 <a href="https://mui.com/store/items/adobe-xd-react/?utm_source=docs&utm_medium=referral&utm_campaign=installation-adobe-xd" style="margin-left: 32px; margin-top: 8px; display: inline-block;"><img src="/static/images/download-adobe-xd.svg" alt="adobe-xd" /></a>
